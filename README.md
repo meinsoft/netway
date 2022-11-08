@@ -9,7 +9,7 @@ pip install netway
 
 ## Usage
 
-Simple **GET** Request :
+Simple **GET** Request :\
 ```python
 import netway 
 
