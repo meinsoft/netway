@@ -3,7 +3,7 @@ Large Network library for python.
 
 
 ## Installation
-```bash
+```python
 pip install netway
 ```
 
