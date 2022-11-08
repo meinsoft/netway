@@ -1,6 +1,6 @@
 from netway.get import *
 from netway.parse import * 
-
+from netway.post import *
 
 class debug:
     def url(url):
